@@ -8,3 +8,21 @@ var fakeConsole = {
   }
 };
 
+function longitud(secuencia) {
+  return secuencia.length; 
+}
+function rango(s, e) {
+  let r = [];
+  for (let i = s; i <= e; i++) {
+     r.push(i)
+  }
+  return r;
+}
+
+function imprimir(s) {
+  console.log(s)
+}
+
+function poner(a, e) {
+   array.push(e);
+}

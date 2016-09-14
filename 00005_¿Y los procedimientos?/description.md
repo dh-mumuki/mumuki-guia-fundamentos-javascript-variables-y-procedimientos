@@ -11,10 +11,10 @@ Entonces `versosMartinFierro`, no es una función... ¡sino un procedimiento! ¿
 
 ```javascript
 function versosMartinFierro() {
-    console.log("Aquí me pongo a cantar");
-    console.log("Al compás de la vigüela;");
-    console.log("Que el hombre que lo desvela");
-    console.log("Una pena extraordinaria");
+    imprimir("Aquí me pongo a cantar");
+    imprimir("Al compás de la vigüela;");
+    imprimir("Que el hombre que lo desvela");
+    imprimir("Una pena extraordinaria");
 }
 ```
 

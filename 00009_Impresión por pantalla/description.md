@@ -2,8 +2,8 @@ Ahora que ya te convencimos de que no necesitamos al tablero, vamos a mostrarte 
 
 ```javascript
 function funcionEgocentrica() {
-  console.log("soy una función que imprime por pantalla");
-  console.log("y estoy por devolver el valor 5");
+  imprimir("soy una función que imprime por pantalla");
+  imprimir("y estoy por devolver el valor 5");
   return 5;
 }
 ```

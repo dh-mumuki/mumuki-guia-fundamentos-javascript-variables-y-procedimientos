@@ -2,7 +2,7 @@
 
 ```javascript
 function cuentaLoca(unNumero) {
-  var elDoble = unNumero * 2;
+  let elDoble = unNumero * 2;
   if (elDoble > 10) {
     return elDoble;
   } else {
@@ -14,7 +14,7 @@ function cuentaLoca(unNumero) {
 Las variables declaradas dentro de una `function`, conocidas como _variables locales_, no presentan mayor misterio. Sin embargo, hay que tener un particular cuidado: sólo se pueden utilizar desde dentro de la `function` en cuestión. Si quiero referenciarla desde un programa:
 
 ```javascript
-var elCuadruple = elDoble * 4;
+let elCuadruple = elDoble * 4;
 ```
 
 Kaboom, ¡se romperá! :collision:
@@ -22,7 +22,7 @@ Kaboom, ¡se romperá! :collision:
 Sin embargo, las variables declaradas directamente en el programa, conocidas como _variables globales_, pueden ser utilizadas desde cualquier `function`. Por ejemplo:
 
 ```javascript
-var pesoMaximoEquipajeEnGramos = 5000;
+let pesoMaximoEquipajeEnGramos = 5000;
 
 function puedeLlevar(pesoEquipaje) {
   return pesoEquipaje <= pesoMaximoEquipajeEnGramos;

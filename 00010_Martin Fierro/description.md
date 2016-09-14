@@ -1,4 +1,4 @@
-¿Qué acabamos de hacer esto? Al igual que `Poner(bolita)`, `console.log` es una funcionalidad que siempre está disponible. Si llamamos a la función anterior, veremos que, además de devolver el valor 5, imprime dos líneas:
+¿Qué acabamos de hacer esto? Al igual que `Poner(bolita)`, `imprimir` es una funcionalidad que siempre está disponible. Si llamamos a la función anterior, veremos que, además de devolver el valor 5, imprime dos líneas:
 
 ```
 soy una función que imprime por pantalla
