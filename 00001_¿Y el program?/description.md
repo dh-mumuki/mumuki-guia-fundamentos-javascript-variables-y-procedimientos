@@ -1,6 +1,6 @@
 Ahora bien, más allá de que podamos consultar el resultado de una función a través de la consola, también aprendimos anteriormente que los programas tienen un punto de entrada: el `program`. ¿Dónde quedó?
 
-La respuesta es tan simple como sorprendente: En JavaScript todo lo que escribamos fuera de una `function` será, implícitamente, dicho punto de entrada. Por ejemplo, si queremos un programa que imprime por pantalla el clásico `"Hola, mundo!"`, lo podremos escribir así:
+La respuesta es tan simple como sorprendente: en JavaScript todo lo que escribamos fuera de una `function` será, implícitamente, dicho punto de entrada. Por ejemplo, si queremos un programa que imprime por pantalla el clásico `"Hola, mundo!"`, lo podremos escribir así:
 
 ```javascript
 imprimir("Hola, mundo!");
@@ -16,8 +16,8 @@ let segundaTirada = tirarDado();
 let terceraTirada = tirarDado();
 
 imprimir("La primera tirada dio " + primeraTirada);
-imprimir("La primera tirada dio " + segundaTirada);
-imprimir("La primera tirada dio " + terceraTirada);
+imprimir("La segunda tirada dio " + segundaTirada);
+imprimir("La tercera tirada dio " + terceraTirada);
 ```
 
 > Copiá y enviá este programa
