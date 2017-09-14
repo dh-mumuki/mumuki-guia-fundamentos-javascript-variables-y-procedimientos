@@ -5,7 +5,7 @@ soy una función que imprime por pantalla
 y estoy por devolver el valor 5
 ```
 
-Sin embargo, sólo podemos escribir strings, y una vez que escribimos en la pantalla, no hay vuelta atrás: no hay forma de retroceder o deshacer.
+Sin embargo, sólo podemos escribir strings y, una vez que escribimos en la pantalla, no hay vuelta atrás: no hay forma de retroceder o deshacer.
 
 > Veamos si va quedando claro, escribí una `function` `versosMartinFierro` que imprima por pantalla los primeros versos del Martín Fierro:
 >
