@@ -1,4 +1,4 @@
-Como habrás notado en el ejercicio anterior, JavaScript también tiene variables, a las que les podemos asignar valores. Sin embargo, presentan una pequeña diferencia: deben ser _declaradas_ mediante `let` la primera vez que la utilizás.
+Como habrás notado en el ejercicio anterior, JavaScript también tiene variables, a las que les podemos asignar valores. Sin embargo, presentan una pequeña diferencia: deben ser _declaradas_ mediante `let` la primera vez que las utilizás.
 
 Por ejemplo:
 
