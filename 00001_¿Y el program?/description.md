@@ -6,7 +6,7 @@ La respuesta es tan simple como sorprendente: en JavaScript todo lo que escribam
 imprimir("Hola, mundo!");
 ```
 
-O si queremos un programa que tire tres veces los datos e imprima sus resultados, podremos escribirlo así: 
+O si queremos un programa que tire tres veces los dados e imprima sus resultados, podemos escribirlo así: 
 
 ```javascript
 imprimir("Tirando dados");
@@ -20,6 +20,6 @@ imprimir("La segunda tirada dio " + segundaTirada);
 imprimir("La tercera tirada dio " + terceraTirada);
 ```
 
-> Copiá y enviá este programa
+> Escribí y enviá este programa
 
 
