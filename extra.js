@@ -2,6 +2,7 @@ var fakeConsole = {
   lines: [],
   log: function(line) {
     this.lines.push(line + "\n");
+    console.log(line);
   },
   toString: function() {
     return String.prototype.concat.apply([], this.lines);
@@ -20,7 +21,7 @@ function rango(s, e) {
 }
 
 function imprimir(s) {
-  console.log(s)
+  fakeConsole.log(s)
 }
 
 function poner(a, e) {
