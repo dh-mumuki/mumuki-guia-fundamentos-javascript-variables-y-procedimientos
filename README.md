@@ -3,9 +3,9 @@
 
 This content is distributed under Creative Commons License Share-Alike, 4.0. [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0)
 
-Copyright Franco Bulgarelli, Mumuki Project and contributors
+Copyright Franco Bulgarelli and contributors
 
 This content consists of voluntary contributions made by many
 individuals. For exact contribution history, see its revision history
-available at https://github.com/MumukiProject/mumuki-guia-fundamentos-javascript-variables-y-procedimientos and the AUTHORS.txt file.
+available at https://github.com/flbulgarelli/mumuki-guia-fundamentos-javascript-variables-y-procedimientos and the AUTHORS.txt file.
 
