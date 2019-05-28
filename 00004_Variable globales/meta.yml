@@ -4,6 +4,6 @@ layout: input_bottom
 editor: code
 type: problem
 extra_visible: false
-teacher_info: ''
 manual_evaluation: false
 choices: []
+name: Variable globales

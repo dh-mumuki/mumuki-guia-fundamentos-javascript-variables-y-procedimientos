@@ -3,7 +3,6 @@ name: Variables y Procedimientos
 locale: es
 type: learning
 beta: false
-teacher_info: ''
 language: javascript
 id_format: "%05d"
 order:
@@ -17,3 +16,4 @@ order:
 - 4
 - 3
 - 8
+private: false
